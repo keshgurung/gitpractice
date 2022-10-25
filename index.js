@@ -11,3 +11,6 @@ console.log(testing(1,2))
 console.log(testing(2,2))
 
 console.log(testing(4,2))
+
+console.log(testing(4,4))
+
